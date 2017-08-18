@@ -1,0 +1,10 @@
+busy-signal@1.3.0
+file-icons@2.1.11
+git-plus@7.3.3
+goto-definition@1.3.3
+intentions@1.1.2
+linter@2.1.2
+linter-jsonlint@1.3.0
+linter-ui-default@1.2.2
+pretty-json@1.6.3
+xml-formatter@0.10.0
